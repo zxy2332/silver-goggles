@@ -1,6 +1,3 @@
-[submodule "src/submodule1"]
-	path = src/submodule1
-	url = https://github.com/zxy2332/submodule1.git
 [submodule "src/submodule2"]
 	path = src/submodule2
 	url = https://github.com/zxy2332/submodule2.git
